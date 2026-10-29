@@ -1,0 +1,17 @@
+[theme]
+base = "light"
+primaryColor = "#0069A4"            # bleu HLi : boutons, liens, éléments actifs
+backgroundColor = "#F4F7FA"         # fond gris-bleu très clair : les cartes blanches ressortent
+secondaryBackgroundColor = "#FFFFFF" # champs de saisie
+textColor = "#1B2A36"
+font = "sans serif"
+baseRadius = "0.6rem"
+borderColor = "#E1E8EE"
+showWidgetBorder = true
+
+[theme.sidebar]
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F4F7FA"
+
+[browser]
+gatherUsageStats = false
